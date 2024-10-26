@@ -192,7 +192,7 @@ Noto Serif: "Noto Serif", "Times New Roman", serif
 }
 
 .reservation__title {
-  margin: 0;
+  margin: 0 auto 80px;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -200,7 +200,7 @@ Noto Serif: "Noto Serif", "Times New Roman", serif
 
 .reservation__form {
   /*Definir márgenes aquí*/
-  margin: 80px auto 0;
+  margin: 0 auto;
 }
 
 .form {
