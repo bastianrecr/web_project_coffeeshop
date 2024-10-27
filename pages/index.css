@@ -1,12 +1,3 @@
-/*
-
-Fallback fonts:
-
-Inter: "Inter", Arial, sans-serif
-Noto Serif: "Noto Serif", "Times New Roman", serif
-
-*/
-
 @import url("../vendor/normalize.css");
 
 @import url("../blocks/page.css");
